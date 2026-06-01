@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Rural Preservation Association logo">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4a7c3a"/>
+      <stop offset="100%" stop-color="#8ebf6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="20" fill="#2f5730"/>
+  <path d="M30 85 C45 55 75 55 90 85" fill="none" stroke="#f3f4ee" stroke-width="10" stroke-linecap="round"/>
+  <path d="M60 30 C48 30 40 45 40 55 C40 65 52 72 60 80 C68 72 80 65 80 55 C80 45 72 30 60 30 Z" fill="url(#g1)"/>
+  <circle cx="60" cy="45" r="6" fill="#f8f7ef"/>
+</svg>
